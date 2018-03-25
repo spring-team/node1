@@ -24,3 +24,5 @@ You're good enough, you're smart enough, and doggone it, people like you.
 As I say yes to life, life says yes to me.
 
 It’s only a thought, and a thought can be changed.
+
+Deep at the center of my being is an infinite well of love.
