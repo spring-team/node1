@@ -1,6 +1,6 @@
 ---
 applications:
-- name: node1
+- name: "node1"
   memory: 512M
   instances: 1
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
